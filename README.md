@@ -41,7 +41,7 @@ KO Rule Enforcement: Prevents moves that would return the board to the state of 
 
 Suicide Rule Enforcement: Avoids moves that would result in the player's own stones being captured due to having no liberties.
 
-$ Heuristics
+# Heuristics
 
 Several heuristics are used to evaluate and score potential moves:
 
