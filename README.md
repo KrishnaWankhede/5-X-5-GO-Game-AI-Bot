@@ -1,4 +1,4 @@
-README for Go Game Min-Max Search with Heuristics
+
 
 Overview
 
